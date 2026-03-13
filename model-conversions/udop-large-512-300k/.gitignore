@@ -1,0 +1,8 @@
+# Large model files and intermediates
+model-hf/
+venv/
+*.bin
+*.safetensors
+
+# Keep the final CoreML output
+!output/

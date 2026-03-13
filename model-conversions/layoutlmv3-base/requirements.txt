@@ -1,0 +1,7 @@
+torch
+transformers
+huggingface_hub
+safetensors
+numpy
+coremltools
+Pillow

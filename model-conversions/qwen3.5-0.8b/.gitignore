@@ -1,0 +1,9 @@
+# Large model files and intermediates
+llama.cpp/
+model-hf/
+venv/
+*.bin
+*.safetensors
+
+# Keep the final quantized GGUF and tokenizer
+!output/
