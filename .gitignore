@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Large model files
+model-hf/
+llama.cpp/
+*.bin
+*.safetensors
+*.gguf
